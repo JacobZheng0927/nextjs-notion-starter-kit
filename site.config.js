@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'DailyLog',
-  domain: 'https://www.notion.so/b8d2a9d1fdc64d7bb17a771c1e5fb502',
+  domain: 'https://scandalous-cathedral-06c.notion.site/b8d2a9d1fdc64d7bb17a771c1e5fb502',
   author: 'JacobZheng',
 
   // open graph metadata (optional)
